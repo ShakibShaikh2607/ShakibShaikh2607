@@ -143,3 +143,156 @@ System Status ................. ONLINE ✅
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,js,html,css,mysql,git,github,vscode,docker,aws,azure"/>
 
 </p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShakibShaikh2607&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakibShaikh2607&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ShakibShaikh2607&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ShakibShaikh2607&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🤖 AI Resume Analyzer | Analyze resumes using AI & NLP | 🚧 In Progress |
+| 📄 PDF RAG Chatbot | Chat with PDFs using Retrieval-Augmented Generation | 🚧 In Progress |
+| 📈 Machine Learning Projects | Collection of ML algorithms & projects | 🚀 Coming Soon |
+| 🌐 Django Backend APIs | REST APIs built with Django | 🚀 Coming Soon |
+| ☁️ AWS Learning Journey | Cloud services & deployment practice | 🚀 Coming Soon |
+| 🧠 GenAI Learning Journey | Daily notes, experiments & implementations | ✅ Active |
+
+---
+
+# 🎯 Current Mission
+
+```text
+[✔] Master Python
+
+[✔] Learn Django
+
+[✔] Learn Git & GitHub
+
+[✔] Build GenAI Projects
+
+[ ] Master Machine Learning
+
+[ ] Master Deep Learning
+
+[ ] Learn MLOps
+
+[ ] Deploy AI Applications
+
+[ ] Contribute to Open Source
+
+[ ] Crack Product Company Interviews
+```
+
+---
+
+# 📚 Learning Roadmap
+
+```text
+2025
+
+✔ Python
+
+✔ SQL
+
+✔ Git
+
+✔ GitHub
+
+✔ HTML
+
+✔ CSS
+
+✔ JavaScript
+
+--------------------------------
+
+2026
+
+✔ Django
+
+✔ FastAPI
+
+✔ Machine Learning
+
+✔ Deep Learning
+
+✔ NLP
+
+✔ LLMs
+
+✔ AI Agents
+
+✔ RAG
+
+✔ AWS
+```
+
+---
+
+# 📜 Certifications
+
+- 🏅 Microsoft Excel Certification
+- 🏅 MSCIT
+- 🏅 Power BI Workshop
+- 🏅 Tally + GST
+- 🏅 English Speaking Mastery
+
+---
+
+# 💡 Philosophy
+
+> **"Learn by building. Improve by shipping. Grow by staying consistent."**
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shakib-shaikh-709690215">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shakibshaikh2607@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+*"Always learning. Always building. Always improving."*
+
+</div>
