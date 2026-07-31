@@ -155,29 +155,29 @@ System Status ................. ONLINE ✅
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shaikhshakib&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shaikhshakib&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhshakib&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
-<div align="center">
+<p align="center">
 
-<img src="https://streak-stats.demolab.com?user=shaikhshakib&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shaikhshakib&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 🏆 GitHub Achievements
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=shaikhshakib&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
-</div>
+</p>
 
 ---
 
@@ -284,11 +284,11 @@ System Status ................. ONLINE ✅
 
 # 👾 Contribution Activity
 
-<div align="center">
+<p align="center">
 
-<img src="https://raw.githubusercontent.com/shaikhshakib/shaikhshakib/output/pacman.svg" alt="Contribution Animation" />
+<img src="https://raw.githubusercontent.com/shaikhshakib/shaikhshakib/output/github-contribution-grid-snake-dark.svg"/>
 
-</div>
+</p>
 
 # 📫 Let's Connect
 
