@@ -1,5 +1,12 @@
 <div align="center">
 
+<img src="assets/banner.png" alt="Shakib Shaikh Banner" width="100%" />
+
+</div>
+
+<br>
+<div align="center">
+
 # 👋 Hi, I'm Shakib Shaikh
 
 ### AI • Data Science • Machine Learning • Generative AI • AWS
