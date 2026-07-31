@@ -20,12 +20,12 @@ Building intelligent applications with Python, Machine Learning, Deep Learning, 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:shakibshaikh2607@gmail.com">
+<a href="mailto:shaikhshakib@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=ShakibShaikh2607&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=shaikhshakib&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -157,15 +157,15 @@ System Status ................. ONLINE ✅
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShakibShaikh2607&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shaikhshakib&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakibShaikh2607&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhshakib&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ShakibShaikh2607&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=shaikhshakib&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -175,7 +175,7 @@ System Status ................. ONLINE ✅
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ShakibShaikh2607&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shaikhshakib&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -286,7 +286,7 @@ System Status ................. ONLINE ✅
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ShakibShaikh2607/ShakibShaikh2607/output/pacman.svg" alt="Contribution Animation" />
+<img src="https://raw.githubusercontent.com/shaikhshakib/shaikhshakib/output/pacman.svg" alt="Contribution Animation" />
 
 </div>
 
@@ -298,7 +298,7 @@ System Status ................. ONLINE ✅
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:shakibshaikh2607@gmail.com">
+<a href="mailto:shaikhshakib@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
