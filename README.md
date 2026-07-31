@@ -280,6 +280,16 @@ System Status ................. ONLINE ✅
 
 ---
 
+---
+
+# 👾 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ShakibShaikh2607/ShakibShaikh2607/output/pacman.svg" alt="Contribution Animation" />
+
+</div>
+
 # 📫 Let's Connect
 
 <div align="center">
