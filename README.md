@@ -167,14 +167,11 @@ System Status ................. ONLINE ✅
 
 ---
 
-# 🏆 GitHub Achievements
+# 📈 GitHub Activity
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shaikhshakib&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaikhshakib&theme=tokyo-night&hide_border=true" />
 </p>
-
 ---
 
 # 🚀 Featured Projects
